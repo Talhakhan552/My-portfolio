@@ -1,0 +1,5 @@
+# Local scratch / test files — never commit (may contain keys)
+test.html
+
+# Dev tooling artifacts
+.devCodeTracker/
